@@ -49,42 +49,29 @@
 
 <body>
 
-    <!-- ===================== -->
-    <!-- Include Header        -->
-    <!-- ===================== -->
+
     <?php include "sections/header.php"; ?>
 
-    <!-- ===================== -->
-    <!-- HERO SECTION          -->
-    <!-- ===================== -->
+   
     <?php include "sections/hero.php"; ?>
 
-    <!-- ===================== -->
-    <!-- ABOUT SECTION         -->
-    <!-- ===================== -->
+  
     <?php include "sections/about.php"; ?>
 
-    <!-- ===================== -->
-    <!-- FEATURES SECTION      -->
-    <!-- ===================== -->
     <?php include "sections/features.php"; ?>
 
-    <!-- ===================== -->
-    <!-- SERVICES SECTION      -->
-    <!-- ===================== -->
+
     <?php include "sections/services.php"; ?>
 
     <?php include 'sections/portfolio.php'; ?>
+    
+    <?php include "sections/developers.php"; ?>
 
 
-    <!-- ===================== -->
-    <!-- KONTAK SECTION        -->
-    <!-- ===================== -->
+
     <?php include "sections/kontak.php"; ?>
 
-    <!-- ===================== -->
-    <!-- FOOTER SECTION        -->
-    <!-- ===================== -->
+
     <?php include "sections/footer.php"; ?>
 
 </body>
